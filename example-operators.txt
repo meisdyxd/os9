@@ -1,0 +1,9 @@
+# Пример пакетной проверки директив: такт|команда
+0|auto off
+0|memory 4096
+0|task 256 6 0
+1|suspend 1
+2|resume 1
+3|kill 1
+4|load
+5|drain
